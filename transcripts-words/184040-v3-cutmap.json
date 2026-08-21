@@ -1,0 +1,27 @@
+[
+  {
+    "srcStart": 0.0,
+    "srcEnd": 0.915,
+    "outStart": 0.0
+  },
+  {
+    "srcStart": 1.525,
+    "srcEnd": 6.635,
+    "outStart": 0.8714
+  },
+  {
+    "srcStart": 6.885,
+    "srcEnd": 8.195,
+    "outStart": 5.7381
+  },
+  {
+    "srcStart": 8.385,
+    "srcEnd": 12.715,
+    "outStart": 6.9857
+  },
+  {
+    "srcStart": 12.885,
+    "srcEnd": 18.167,
+    "outStart": 11.1095
+  }
+]

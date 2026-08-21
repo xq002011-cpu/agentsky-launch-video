@@ -1,0 +1,20 @@
+[
+  {
+    "v3Start": 0.0,
+    "v3End": 4.26,
+    "outStart": 0.0,
+    "atempo": 1.0
+  },
+  {
+    "v3Start": 4.26,
+    "v3End": 11.575,
+    "outStart": 4.26,
+    "atempo": 1.0667
+  },
+  {
+    "v3Start": 13.445,
+    "v3End": 18.14,
+    "outStart": 11.1176,
+    "atempo": 1.0667
+  }
+]

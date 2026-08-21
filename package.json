@@ -1,0 +1,22 @@
+{
+  "name": "agent-sky-remake",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "remotion studio src/index.ts --port=3001",
+    "still": "remotion still src/index.ts AgentSkyLaunch out/still.png"
+  },
+  "dependencies": {
+    "@remotion/cli": "latest",
+    "@remotion/media": "latest",
+    "gsap": "^3.15.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "remotion": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "5.7.3"
+  }
+}
