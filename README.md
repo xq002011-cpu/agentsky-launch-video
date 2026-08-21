@@ -1,5 +1,9 @@
 # AgentSky Launch Film — Remotion Project
 
+
+> **⚠️ Which file is current:** the final Playground segment (with the KOF-style VS opening) is **`src/AgentSkyPlaygroundDemo.tsx`** — VS screen at ~L397. `AgentSkyPlaygroundScene.tsx`, `AgentSkyEngineRoom.tsx`, `AgentSkyThirtySecond.tsx` are earlier iterations kept for reference; do not edit those expecting the final film to change.
+
+
 **Total runtime: ~60s (1811 frames at 30 fps)**
 **Format: 1920 × 1080 @ 30 fps**
 
